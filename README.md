@@ -26,6 +26,14 @@ Consumo de energia do controle:
 
     Além disso o ZigBee não garante a integridade do esquema de segurança, dependendo apenas do CRC para checar os dados de um quadro, e com isso, as mensagens podem ser facilmente adulteradas.
 
+    Refs:
+    - [Sun et al.; 2011](artigos/sun2011.pdf)
+    - [Razouk et al.; 2014](artigos/razouk2014.pdf)
+    - [Yang, Bin; 2009](artigos/yang2009.pdf)
+    - [ZigBee Especifications](docs/zigbee_especification.pdf)
+
+
+
 ---
 
 ## Reunião 28/03/2023
